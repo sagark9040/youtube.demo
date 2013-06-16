@@ -1,5 +1,4 @@
-bhosda
-lavda
-gandu
-randicha
-paachva
+Sachin
+Tendulkar
+Sagar
+Kangutkar
